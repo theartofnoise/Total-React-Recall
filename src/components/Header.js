@@ -2,6 +2,7 @@ import React from 'react';
 import Score from './Score';
 import '../css/Header.css';
 
+// nav bar containing the score
 const Header = (props) => {
     return(
         <nav>
