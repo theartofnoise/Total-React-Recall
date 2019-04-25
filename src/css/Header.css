@@ -28,5 +28,7 @@
     .lowerText, .scoreBottom {
         display: block!important;
     }
-    
+    .nav-wrapper {
+        padding: 0px!important;
+    }
   }
