@@ -1,5 +1,4 @@
 {
-  "homepage": "https://theartofnoise.github.io/total-react-recall/",
   "name": "total-react-recall",
   "version": "0.1.0",
   "private": true,
@@ -41,5 +40,5 @@
   "bugs": {
     "url": "https://github.com/theartofnoise/Total-React-Recall/issues"
   },
-  "homepage": "https://github.com/theartofnoise/Total-React-Recall#readme"
+  "homepage": "https://github.com/theartofnoise/Total-React-Recall/"
 }
