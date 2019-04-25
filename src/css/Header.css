@@ -3,3 +3,30 @@
     padding-right: 5rem;
     background-color: blue;
 }
+.lowerText {
+    display: none;
+    margin: 0px;
+    line-height: 15px;
+}
+.scoreBottom {
+    margin-top: 5px;
+    line-height: 15px;
+    display: none;
+}
+
+
+
+@media only screen and (max-width: 950px) {
+    .centerText, .scoreTop {
+        display: none!important;
+    }
+    .recallLogo {
+        float: none!important;
+        align-content: center!important;
+        position: relative!important;
+    }
+    .lowerText, .scoreBottom {
+        display: block!important;
+    }
+    
+  }

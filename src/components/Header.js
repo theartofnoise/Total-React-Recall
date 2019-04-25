@@ -7,9 +7,9 @@ const Header = (props) => {
     return(
         <nav>
     <div className="nav-wrapper">
-      <a href="myporfolio.com" className="left brand-logo">Total-React-Recall</a>
-      <a href="myporfolio.com" className="brand-logo center">Click a pic to get started!</a>
-      <ul id="nav-mobile" className="right">
+      <div href="myporfolio.com" className="left brand-logo recallLogo">Total-React-Recall</div>
+      <div href="myporfolio.com" className="brand-logo center centerText">Click a pic to get started!</div>
+      <ul id="nav-mobile" className="right scoreTop">
         <li>
           {/* my little score card here */}
           <Score 
@@ -21,6 +21,18 @@ const Header = (props) => {
         
       </ul>
     </div>
+    <div id="" className="center s12 blue-text scoreBottom">
+        
+          {/* my little score card here */}
+          <Score 
+          score={props.score} 
+          highScore={props.highScore} 
+          round={props.round}
+          />
+        
+        
+      </div>
+    <div href="myporfolio.com" className="blue-text center s12 lowerText">Touch a pic to get started!</div>
   </nav>
     )
 }

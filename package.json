@@ -1,5 +1,4 @@
 {
-  "homepage": "http://theartofnoise.github.io/total-react-recall/",
   "name": "total-react-recall",
   "version": "0.1.0",
   "private": true,
@@ -12,9 +11,7 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "eject": "react-scripts eject"
   },
   "eslintConfig": {
     "extends": "react-app"
@@ -31,7 +28,17 @@
       "last 1 safari version"
     ]
   },
-  "devDependencies": {
-    "gh-pages": "^2.0.1"
-  }
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+  "main": "src",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theartofnoise/Total-React-Recall.git"
+  },
+  "author": "Arthur G",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/theartofnoise/Total-React-Recall/issues"
+  },
+  "homepage": "https://github.com/theartofnoise/Total-React-Recall#readme"
 }

@@ -7,7 +7,7 @@ const Pics = props => {
     props.picClicked(e.target.id);
   }
   // renders the pictures
-  return <div onClick={localPicClick} className="pics col s12 m4 l3">
+  return <div onClick={localPicClick} className="pics col s4 m4 l3">
   <img src={props.src} alt={props.alt} id={props.id} />
 </div>;
 };
