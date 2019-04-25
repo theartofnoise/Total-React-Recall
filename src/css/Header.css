@@ -24,6 +24,7 @@
         float: none!important;
         align-content: center!important;
         position: relative!important;
+        left: 3.0rem!important;
     }
     .lowerText, .scoreBottom {
         display: block!important;

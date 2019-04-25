@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/theartofnoise/Total-React-Recall/static/css/main.c898e3da.chunk.css",
+    "main.css": "/theartofnoise/Total-React-Recall/static/css/main.7803c347.chunk.css",
     "main.js": "/theartofnoise/Total-React-Recall/static/js/main.53912f8c.chunk.js",
     "main.js.map": "/theartofnoise/Total-React-Recall/static/js/main.53912f8c.chunk.js.map",
     "runtime~main.js": "/theartofnoise/Total-React-Recall/static/js/runtime~main.fa11fee2.js",
@@ -8,8 +8,8 @@
     "static/js/2.6efc73d3.chunk.js": "/theartofnoise/Total-React-Recall/static/js/2.6efc73d3.chunk.js",
     "static/js/2.6efc73d3.chunk.js.map": "/theartofnoise/Total-React-Recall/static/js/2.6efc73d3.chunk.js.map",
     "index.html": "/theartofnoise/Total-React-Recall/index.html",
-    "precache-manifest.e9f87090e96779b5e7a89621a6665857.js": "/theartofnoise/Total-React-Recall/precache-manifest.e9f87090e96779b5e7a89621a6665857.js",
+    "precache-manifest.35d3c874698bfd0f0768d2fd9e260e56.js": "/theartofnoise/Total-React-Recall/precache-manifest.35d3c874698bfd0f0768d2fd9e260e56.js",
     "service-worker.js": "/theartofnoise/Total-React-Recall/service-worker.js",
-    "static/css/main.c898e3da.chunk.css.map": "/theartofnoise/Total-React-Recall/static/css/main.c898e3da.chunk.css.map"
+    "static/css/main.7803c347.chunk.css.map": "/theartofnoise/Total-React-Recall/static/css/main.7803c347.chunk.css.map"
   }
 }
